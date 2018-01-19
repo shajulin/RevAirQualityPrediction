@@ -5,3 +5,7 @@ measures exist, these solutions are not remaining as assets to cities. In this w
 (Presented at IEEE - icacci-conference-2017)
 
 Citation: Shajulin Benedict, "Revenue Oriented Air Quality Prediction Microservices for Smart Cities", in Proc. of IEEE 6th Int. Conf. on Advances in Computing Communications and Informatics", Sep 2017, India. 
+
+http://ieeexplore.ieee.org/document/8125879/
+
+For further details, please contact shajulin AT iiitkottayam.ac.in
